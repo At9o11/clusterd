@@ -1,0 +1,9 @@
+WebLogic libs
+============
+
+wlfullclient - taken from a 10.3 WebLogic install, used for all things WL
+wlcipher.jar - taken from a 10.3 WebLogic install, used for SSL connections
+DemoTrust.jks - taken from a 12.1 install, required for SSL
+
+WebLogic is ridiculous and doesn't have a neat HTTP API by default, so we
+need to use WL libraries to invoke enterprise MBeans.
