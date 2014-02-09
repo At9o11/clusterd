@@ -34,6 +34,8 @@ clusterd features
 
 * ColdFusion
     - Versions 6 - 10
+    - Currently supported deployers:
+        + Task Scheduler for 9.x
     - Hash retrieval for versions 6 - 10
     - RDS admin bypass (CVE-2013-0632)
 
